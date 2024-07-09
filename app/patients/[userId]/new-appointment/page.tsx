@@ -34,7 +34,7 @@ export default async function NewAppointment({ params: { userId } }: SearchParam
 
       </div>
     </section>
-    <Image src="/assets/images/appoinTment-img.png"
+    <Image src="/assets/images/appointment-img.png"
       height={1000}
       width={1000}
       alt="appoinment"
